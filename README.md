@@ -1,8 +1,8 @@
-👋 Hi, I’m @DevayaniDinda
-👀 I’m interested in mobile development (flutter) and database technologies
-🌱 I’m currently learning website development w/ vue.js
-💞️ I’m looking to collaborate on mobile, website or database service projects
-📫 My another github account 
+- 👋 Hi, I’m @DevayaniDinda
+- 👀 I’m interested in mobile development (flutter) and database technologies
+- 🌱 I’m currently learning website development w/ vue.js
+- 💞️ I’m looking to collaborate on mobile, website or database service projects
+- 📫 My another github account 
   - @devayanidindaaa (2nd personal github)
   - @devayanidindabsa (office github)
 
